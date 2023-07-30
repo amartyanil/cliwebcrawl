@@ -1,4 +1,4 @@
-# cliwebcrawl
+# A Command Line Based Web Crawler
 
 This is a command-line based web crawler made using JavaScript.
 
